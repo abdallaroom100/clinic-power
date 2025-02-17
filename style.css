@@ -6,7 +6,7 @@
     font-family: "Cairo", serif;
      
 }
-body{
+html,body{
     scroll-behavior: smooth;
    
 }
